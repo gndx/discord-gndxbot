@@ -6,4 +6,4 @@ const command_name = {
   },
 };
 
-export default command_name;
+module.exports = reglas;
